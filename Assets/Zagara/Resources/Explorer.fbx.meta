@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 7da125e190ef3d048a91948569c00378
+timeCreated: 18446744011573954816
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: KidV5_mesh
+    100004: L_Kid_clavicle_jnt
+    100006: L_Kid_elbow_jnt
+    100008: L_Kid_eyebrowA_jnt
+    100010: L_Kid_eyebrowB_jnt
+    100012: L_Kid_finger_jnt
+    100014: L_Kid_foot_jnt
+    100016: L_Kid_hand_jnt
+    100018: L_Kid_hip_jnt
+    100020: L_Kid_knee_jnt
+    100022: L_Kid_shoulder_jnt
+    100024: L_Kid_toe_jnt
+    100026: M_Kid_head_jnt
+    100028: M_Kid_Hip_jnt
+    100030: M_Kid_neck_jnt
+    100032: M_Kid_root_jnt
+    100034: M_Kid_spineA_jnt
+    100036: M_Kid_spineB_jnt
+    100038: R_Kid_clavicle_jnt
+    100040: R_Kid_elbow_jnt
+    100042: R_Kid_eyebrowA_jnt
+    100044: R_Kid_eyebrowB_jnt
+    100046: R_Kid_finger_jnt
+    100048: R_Kid_foot_jnt
+    100050: R_Kid_hand_jnt
+    100052: R_Kid_hip_jnt
+    100054: R_Kid_knee_jnt
+    100056: R_Kid_shoulder_jnt
+    100058: R_Kid_toe_jnt
+    400000: //RootNode
+    400002: KidV5_mesh
+    400004: L_Kid_clavicle_jnt
+    400006: L_Kid_elbow_jnt
+    400008: L_Kid_eyebrowA_jnt
+    400010: L_Kid_eyebrowB_jnt
+    400012: L_Kid_finger_jnt
+    400014: L_Kid_foot_jnt
+    400016: L_Kid_hand_jnt
+    400018: L_Kid_hip_jnt
+    400020: L_Kid_knee_jnt
+    400022: L_Kid_shoulder_jnt
+    400024: L_Kid_toe_jnt
+    400026: M_Kid_head_jnt
+    400028: M_Kid_Hip_jnt
+    400030: M_Kid_neck_jnt
+    400032: M_Kid_root_jnt
+    400034: M_Kid_spineA_jnt
+    400036: M_Kid_spineB_jnt
+    400038: R_Kid_clavicle_jnt
+    400040: R_Kid_elbow_jnt
+    400042: R_Kid_eyebrowA_jnt
+    400044: R_Kid_eyebrowB_jnt
+    400046: R_Kid_finger_jnt
+    400048: R_Kid_foot_jnt
+    400050: R_Kid_hand_jnt
+    400052: R_Kid_hip_jnt
+    400054: R_Kid_knee_jnt
+    400056: R_Kid_shoulder_jnt
+    400058: R_Kid_toe_jnt
+    4300000: KidV5_mesh
+    9500000: //RootNode
+    13700000: KidV5_mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 0ec0d68b5958a4c6681a24f65ed38a10, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: M_Kid_root_jnt
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
