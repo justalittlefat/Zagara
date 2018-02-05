@@ -9,9 +9,9 @@
 * 全部渲染过程由CPU处理，可以在内存中追踪所有数据
 
 ## 一些效果展示
-![image](https://github.com/justalittlefat/Zagara/blob/master/Images/Example_01.png)
 * 3个点光源+1个平行光
+![image](https://github.com/justalittlefat/Zagara/blob/master/Images/Example_01.png)
 
-![image](https://github.com/justalittlefat/Zagara/blob/master/Images/Example_02.png)
 * 摆放了两个同样的mesh
 * 一个正常渲染，读取贴图绘制，另一个做边缘光半透明效果
+![image](https://github.com/justalittlefat/Zagara/blob/master/Images/Example_02.png)
