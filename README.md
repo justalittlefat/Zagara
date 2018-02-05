@@ -7,6 +7,7 @@
 * 配置输出目录
 * 点击"Fire!"按钮，即可渲染出一帧图像
 * 全部渲染过程由CPU处理，可以在内存中追踪所有数据
+* 这个项目只是为了展示核心渲染流程，渲染部分一共只有约300行代码
 
 ## 一些效果展示
 ![image](https://github.com/justalittlefat/Zagara/blob/master/Images/Example_01.png)
